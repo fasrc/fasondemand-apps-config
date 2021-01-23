@@ -1,0 +1,22 @@
+{
+	"apps": [{
+			"app_name": "fas-jupyter-general",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+		},
+		{
+			"app_name": "fas-rstudio-gov50",
+			"enabled": "0",
+			"courses": ["g_34166", "g_80421", "g_65214"]
+		}
+	],
+	"courses": [{
+			"name": "fasrcdev",
+			"group": "g_34166"
+		},
+		{
+			"name": "seasdev",
+			"group": "g_73222"
+		}
+	]
+}
