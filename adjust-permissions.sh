@@ -1,6 +1,7 @@
 #!/bin/bash
 
 export apps_root=/var/www/ood/apps/sys
+export script_path=$(cd ${0%/*} && pwd -P)
 
 set_facl() {
   # params: $1 = app_name $2 enabled $3 comma_separated_list_groups 
@@ -92,9 +93,9 @@ test_jq_parsing() {
 }
 export -f test_jq_parsing
 
-[ ! -f apps-permissions.json ] && exit 1
+[ ! -f ${script_path}/apps-permissions.json ] && exit 1
 echo "setting permissions"
 
-cat apps-permissions.json | jq --raw-output '.apps[]  | "\(.app_name)  \(.enabled) \(.courses | join(","))"  ' | \
+cat ${script_path}/apps-permissions.json | jq --raw-output '.apps[]  | "\(.app_name)  \(.enabled) \(.courses | join(","))"  ' | \
 xargs -I {} -t bash -c "set_facl {} "
 #xargs -I {} -t bash -c "test_jq_parsing {} "
