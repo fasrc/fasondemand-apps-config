@@ -20,6 +20,11 @@
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_85341"]
 		},
 		{
+			"app_name": "fas-jupyter-ese102",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+		},
+		{
 			"app_name": "fas-jupyter-datafest-2021",
 			"enabled": "1",
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_87116"]
