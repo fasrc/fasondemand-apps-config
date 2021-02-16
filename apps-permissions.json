@@ -25,6 +25,11 @@
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_79040"]
 		},
 		{
+			"app_name": "fas-rstudio-oeb275r",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+		},
+		{
 			"app_name": "fas-jupyter-cs109b",
 			"enabled": "1",
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_84598"]
