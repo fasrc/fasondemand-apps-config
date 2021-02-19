@@ -15,9 +15,19 @@
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_75065"]
 		},
 		{
+			"app_name": "fas-astron100",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_83974"]
+		},
+		{
 			"app_name": "fas-es128",
 			"enabled": "1",
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_85341"]
+		},
+		{
+			"app_name": "fas-jupyter-astron100",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_83974"]
 		},
 		{
 			"app_name": "fas-jupyter-ese102",
