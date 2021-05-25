@@ -211,64 +211,64 @@
 			"group": "g_87116"
 		},
 		{
-			"name": "g_86540",
-			"group": "dpi610"
+			"name": "dpi610",
+			"group": "g_86540"
 		},
 		{
-			"name": "g_84598",
-			"group": "cs109b"
+			"name": "cs109b",
+			"group": "g_84598"
 		},
 		{
-			"name": "g_87457",
-			"group": "python_workshop"
+			"name": "python_workshop",
+			"group": "g_87457"
 		},
 		{
-			"name": "g_84102",
-			"group": "cs205"
+			"name": "cs205",
+			"group": "g_84102"
 		},
 		{
-			"name": "g_76790",
-			"group": "scrb99a"
+			"name": "scrb99a",
+			"group": "g_76790"
 		},
 		{
-			"name": "g_83970",
-			"group": "scrb91r"
+			"name": "scrb91r",
+			"group": "g_83970"
 		},
 		{
-			"name": "g_85037",
-			"group": "oeb275r"
+			"name": "oeb275r",
+			"group": "g_85037"
 		},
 		{
-			"name": "g_83974",
-			"group": "astron100"
+			"name": "astron100",
+			"group": "g_83974"
 		},
 		{
-			"name": "g_85159",
-			"group": "econ50a"
+			"name": "econ50a",
+			"group": "g_85159"
 		},
 		{
-			"name": "g_81128",
-			"group": "scrb155"
+			"name": "scrb155",
+			"group": "g_81128"
 		},
 		{
-			"name": "g_81483",
-			"group": "cscie88b"
+			"name": "cscie88b",
+			"group": "g_81483"
 		},
 		{
-			"name": "g_84858",
-			"group": "scrb50"
+			"name": "scrb50",
+			"group": "g_84858"
 		},
 		{
-			"name": "g_83338",
-			"group": "chem165"
+			"name": "chem165",
+			"group": "g_83338"
 		},
 		{
-			"name": "g_83746",
-			"group": "chem100r"
+			"name": "chem100r",
+			"group": "g_83746"
 		},
 		{
-			"name": "g_81346",
-			"group": "sumprogecology"
+			"name": "sumprogecology",
+			"group": "g_81346"
 		}
 	]
 }
