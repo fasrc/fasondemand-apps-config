@@ -72,17 +72,17 @@
 		{
 			"app_name": "fas-jupyter-general",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_95216", "g_89941"]
 		},
 		{
 			"app_name": "fas-jupyter-cs109a",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_88553"]
 		},
 		{
 			"app_name": "fas-jupyter-r",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_89951"]
 		}
 	],
 	"courses": [{
@@ -100,6 +100,22 @@
 		{
 			"name": "perftest",
 			"group": "g_65214"
+		},
+		{
+			"name": "cs109a",
+			"group": "g_88553"
+		},
+		{
+			"name": "phys2000a",
+			"group": "g_89951"
+		},
+		{
+			"name": "biophys206",
+			"group": "g_95216"
+		},
+		{
+			"name": "mcb112",
+			"group": "g_89941"
 		}
 	]
 }
