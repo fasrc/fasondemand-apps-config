@@ -10,16 +10,6 @@
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
 		},
 		{
-			"app_name": "fas-astron100",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
-		},
-		{
-			"app_name": "fas-es128",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
-		},
-		{
 			"app_name": "Lumerical",
 			"enabled": "1",
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
@@ -41,11 +31,6 @@
 		},
 		{
 			"app_name": "windows-comsol",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
-		},
-		{
-			"app_name": "windows-comsol-fall2020",
 			"enabled": "1",
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
 		},
