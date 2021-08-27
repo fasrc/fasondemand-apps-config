@@ -47,7 +47,7 @@
 		{
 			"app_name": "fas-rstudio-general",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_95671"]
 		},
 		{
 			"app_name": "fas-jupyter-general",
@@ -96,6 +96,10 @@
 		{
 			"name": "mcb112",
 			"group": "g_89941"
+		},
+	    	{
+			"name": "rstudiodemo",
+			"group": "g_95671"
 		}
 	]
 }
