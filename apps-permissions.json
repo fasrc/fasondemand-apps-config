@@ -47,7 +47,7 @@
 		{
 			"app_name": "fas-rstudio-general",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_95671"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_95671", "g_94212"]
 		},
 		{
 			"app_name": "fas-jupyter-general",
@@ -100,6 +100,10 @@
 	    	{
 			"name": "rstudiodemo",
 			"group": "g_95671"
+		},
+		{
+			"name": "id221",
+			"group": "g_94212"
 		}
 	]
 }
