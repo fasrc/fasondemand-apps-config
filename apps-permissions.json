@@ -67,22 +67,22 @@
 		{
 			"app_name": "fas-remote-desktop-abaqus",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", ]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
 		},
 		{
 			"app_name": "fas-remote-desktop-comsol",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", ]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
 		},
 		{
 			"app_name": "fas-remote-desktop-general",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", ]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
 		},
 		{
 			"app_name": "fas-remote-desktop-lumerical",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", ]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
 		}
 	],
 	"courses": [{
