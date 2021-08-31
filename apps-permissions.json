@@ -22,17 +22,17 @@
 		{
 			"app_name": "windows-autodesk",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_95714", "g_91523"]
 		},
 		{
 			"app_name": "windows-granta",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91880", "g_91877", "g_92116"]
 		},
 		{
 			"app_name": "windows-comsol",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91700", "g_91854", "g_91451"]
 		},
 		{
 			"app_name": "windows-kvm",
@@ -42,7 +42,7 @@
 		{
 			"app_name": "windows-solidworks",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91870"]
 		},
 		{
 			"app_name": "fas-rstudio-general",
@@ -67,22 +67,22 @@
 		{
 			"app_name": "fas-remote-desktop-abaqus",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214" ,"g_91889"]
 		},
 		{
 			"app_name": "fas-remote-desktop-comsol",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91880", "g_91877", "g_92116", "g_93460", "g_91700", "g_91854"]
 		},
 		{
 			"app_name": "fas-remote-desktop-general",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91857", "g_92142", "g_91870", "g_95714", "g_91451", "g_91523"]
 		},
 		{
 			"app_name": "fas-remote-desktop-lumerical",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_92136"]
 		}
 	],
 	"courses": [{
