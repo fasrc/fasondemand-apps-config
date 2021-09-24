@@ -20,27 +20,32 @@
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91980"]
 		},
 		{
-			"app_name": "windows-autodesk",
+			"app_name": "fas-ondemand-windows-seas-autodesk",
 			"enabled": "1",
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_95714", "g_91523"]
 		},
 		{
-			"app_name": "windows-granta",
+			"app_name": "fas-ondemand-windows-seas-granta",
 			"enabled": "1",
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91880", "g_91877", "g_92116"]
 		},
 		{
-			"app_name": "windows-comsol",
+			"app_name": "fas-ondemand-windows-seas-comsol",
 			"enabled": "1",
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91700", "g_91854", "g_91451"]
 		},
 		{
-			"app_name": "windows-kvm",
+			"app_name": "fas-ondemand-windows-fasrc-base",
 			"enabled": "1",
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
 		},
 		{
-			"app_name": "windows-solidworks",
+			"app_name": "fas-ondemand-windows-all",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+		},
+		{
+			"app_name": "fas-ondemand-windows-seas-solidworks",
 			"enabled": "1",
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91870"]
 		},
