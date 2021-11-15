@@ -98,6 +98,11 @@
 			"app_name": "es159-ros-gazebo",
 			"enabled": "1",
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_92142"]
+		},
+		{
+			"app_name": "fas-jupyter-heb1410",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_94089"]
 		}
 	],
 	"courses": [{
@@ -230,6 +235,10 @@
 		{
 			"name": "bst228",
 			"group": "g_94162"
+		},
+		{
+			"name": "heb1410",
+			"group": "g_94089"
 		}
 	]
 }
