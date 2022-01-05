@@ -2,132 +2,107 @@
 	"apps": [{
 			"app_name": "Abaqus-2019",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_75065", "g_79315"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
 		},
 		{
 			"app_name": "Comsol",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_79298", "g_79310", "g_85340", "g_86744", "g_79303", "g_79315", "g_86979", "g_86682", "g_75065"]
-		},
-		{
-			"app_name": "Comsol55",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_75065"]
-		},
-		{
-			"app_name": "fas-astron100",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_83974"]
-		},
-		{
-			"app_name": "fas-es128",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_85341"]
-		},
-		{
-			"app_name": "fas-jupyter-astron100",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_83974"]
-		},
-		{
-			"app_name": "fas-jupyter-ese102",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_79040"]
-		},
-		{
-			"app_name": "fas-rstudio-oeb275r",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_85037"]
-		},
-		{
-			"app_name": "fas-jupyter-cs109b",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_84598"]
-		},
-		{
-			"app_name": "fas-jupyter-datafest-2021",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_87116"]
-		},
-		{
-			"app_name": "fas-jupyter-general",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_75065", "g_86443", "g_79298", "g_79310", "g_85340", "g_85341", "g_86744", "g_79303", "g_85259", "g_79315", "g_79366", "g_86979", "g_86682", "g_86540", "g_87457", "g_84102", "g_83970", "g_76790", "g_85037", "g_85159", "g_81128", "g_81483", "g_84858", "g_83338", "g_83746", "g_81346"]
-		},
-		{
-			"app_name": "fas-rstudio",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_75065", "g_79298", "g_79310", "g_85340", "g_85341", "g_86744", "g_79303", "g_85259", "g_79315", "g_79366", "g_86979", "g_86682", "g_84598",  "g_87457", "g_84102", "g_83970", "g_76790", "g_83974", "g_85159", "g_81483", "g_83338", "g_83746", "g_81346"]
-		},
-		{
-			"app_name": "fas-rstudio-datafest-2021",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_87116"]
-		},
-		{
-			"app_name": "fas-rstudio-ese6",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_79073"]
-		},
-		{
-			"app_name": "fas-rstudio-gov1005",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_86443"]
-		},
-		{
-			"app_name": "fas-rstudio-scrb50",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_84858"]
-		},
-		{
-			"app_name": "fas-rstudio-scrb155",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_81128"]
-		},
-		{
-			"app_name": "fas-rstudio-dpi610",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_86540"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
 		},
 		{
 			"app_name": "Lumerical",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_79303"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
 		},
 		{
 			"app_name": "Matlab",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_75065", "g_86443", "g_79298", "g_79310", "g_85340", "g_85341", "g_86744", "g_79303", "g_79073", "g_85259", "g_79315", "g_79366", "g_86979", "g_86682", "g_79040", "g_87116", "g_86540", "g_84598", "g_84102", "g_83970", "g_76790", "g_85037", "g_83974", "g_85159", "g_81128", "g_81483", "g_84858", "g_83338", "g_83746", "g_81346"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91980", "g_94162"]
 		},
 		{
-			"app_name": "OdysseyRD-container",
+			"app_name": "fas-ondemand-windows-seas-autodesk",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_75065", "g_86443", "g_79298", "g_79310", "g_85340", "g_86744", "g_79303", "g_79073", "g_85259", "g_79315", "g_79366", "g_86979", "g_86682", "g_79040", "g_87116", "g_86540", "g_84598", "g_87457", "g_84102", "g_83970", "g_76790", "g_85037", "g_85159", "g_81128", "g_81483", "g_84858", "g_83338", "g_83746", "g_81346"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_95714", "g_91523"]
 		},
 		{
-			"app_name": "windows-autodesk",
+			"app_name": "fas-ondemand-windows-seas-granta",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_79315", "g_79366"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91880", "g_91877", "g_92116"]
 		},
 		{
-			"app_name": "windows-comsol",
+			"app_name": "fas-ondemand-windows-seas-comsol",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_79298", "g_86744", "g_79303", "g_79315", "g_86979"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91700", "g_91854", "g_91451"]
 		},
 		{
-			"app_name": "windows-comsol-fall2020",
-			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_75065"]
-		},
-		{
-			"app_name": "windows-kvm",
+			"app_name": "fas-ondemand-windows-fasrc-base",
 			"enabled": "1",
 			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
 		},
 		{
-			"app_name": "windows-solidworks",
+			"app_name": "fas-ondemand-windows-all",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_85259", "g_79310"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214"]
+		},
+		{
+			"app_name": "fas-ondemand-windows-seas-solidworks",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91870"]
+		},
+		{
+			"app_name": "fas-rstudio-general",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_95671", "g_94212", "g_91880", "g_91877", "g_92116", "g_91857", "g_91889", "g_91870", "g_95714", "g_91700", "g_91854", "g_92142", "g_91451", "g_92136", "g_91523", "g_93460", "g_92062", "g_94163", "g_93365", "g_92026", "g_91980", "g_95193", "g_89881", "g_94162", "g_94089", "g_88904", "g_102162"]
+		},
+		{
+			"app_name": "fas-jupyter-general",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_95216", "g_89941", "g_91644", "g_91880", "g_91877", "g_92116", "g_91857", "g_91889", "g_91870", "g_95714", "g_91700", "g_91854", "g_92142", "g_91451", "g_92136", "g_91523", "g_93460", "g_92062", "g_94163", "g_93365", "g_92026", "g_91980", "g_95193", "g_89881", "g_94162", "g_94089"]
+		},
+		{
+			"app_name": "fas-jupyter-cs109a",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_88553"]
+		},
+		{
+			"app_name": "fas-jupyter-r",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_89951"]
+		},
+		{
+			"app_name": "fas-remote-desktop-abaqus",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214" ,"g_91889"]
+		},
+		{
+			"app_name": "fas-remote-desktop-comsol",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91880", "g_91877", "g_92116", "g_93460", "g_91700", "g_91854"]
+		},
+		{
+			"app_name": "fas-remote-desktop-general",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91857", "g_92142", "g_91870", "g_95714", "g_91451", "g_91523", "g_94163", "g_93365", "g_92026", "g_91980", "g_95193", "g_89881", "g_94162", "g_94089"]
+		},
+		{
+			"app_name": "fas-remote-desktop-lumerical",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_92136"]
+		},
+		{
+			"app_name": "fas-remote-desktop-stata",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_92062"]
+		},
+		{
+			"app_name": "es159-ros-gazebo",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_92142"]
+		},
+		{
+			"app_name": "fas-jupyter-heb1410",
+			"enabled": "1",
+			"courses": ["g_73222", "g_34166", "g_94089"]
 		}
 	],
 	"courses": [{
@@ -147,128 +122,123 @@
 			"group": "g_65214"
 		},
 		{
-			"name": "es100",
-			"group": "g_75065"
+			"name": "cs109a",
+			"group": "g_88553"
 		},
 		{
-			"name": "gov1005",
-			"group": "g_86443"
+			"name": "phys2000a",
+			"group": "g_89951"
 		},
 		{
-			"name": "es120",
-			"group": "g_79298"
+			"name": "biophys206",
+			"group": "g_95216"
 		},
 		{
-			"name": "es123",
-			"group": "g_79310"
+			"name": "mcb112",
+			"group": "g_89941"
+		},
+	    	{
+			"name": "rstudiodemo",
+			"group": "g_95671"
 		},
 		{
-			"name": "es183",
-			"group": "g_85340"
+			"name": "id221",
+			"group": "g_94212"
 		},
 		{
-			"name": "es128",
-			"group": "g_85341"
-		},
-		{
-			"name": "stu1232",
-			"group": "g_86744"
+			"name": "es157",
+			"group": "g_91644"
 		},
 		{
 			"name": "es96",
-			"group": "g_79303"
+			"group": "g_91880"
 		},
 		{
-			"name": "ese6",
-			"group": "g_79073"
+			"name": "es100",
+			"group": "g_91877"
+		},
+		{
+			"name": "es192",
+			"group": "g_92116"
+		},
+		{
+			"name": "es181",
+			"group": "g_91857"
+		},
+		{
+			"name": "es240",
+			"group": "g_91889"
 		},
 		{
 			"name": "es51",
-			"group": "g_85259"
+			"group": "g_91870"
+		},
+		{
+			"name": "es91hrf",
+			"group": "g_95714"
 		},
 		{
 			"name": "es91r",
-			"group": "g_79315"
+			"group": "g_91700"
 		},
 		{
-			"name": "es91hfr",
-			"group": "g_79366"
+			"name": "es125",
+			"group": "g_91854"
 		},
 		{
-			"name": "es298br",
-			"group": "g_86979"
+			"name": "es159",
+			"group": "g_92142"
+		},
+		{
+			"name": "es173",
+			"group": "g_91451"
+		},
+		{
+			"name": "es273",
+			"group": "g_92136"
+		},
+		{
+			"name": "gened1080",
+			"group": "g_91523"
 		},
 		{
 			"name": "es291",
-			"group": "g_86682"
+			"group": "g_93460"
 		},
 		{
-			"name": "ese102",
-			"group": "g_79040"
+			"name": "econ2110",
+			"group": "g_92062"
 		},
 		{
-			"name": "datafest2021",
-			"group": "g_87116"
+			"name": "bst283",
+			"group": "g_94163"
 		},
 		{
-			"name": "dpi610",
-			"group": "g_86540"
+			"name": "am211",
+			"group": "g_93365"
+		},
+		{	
+			"name": "eps208",
+			"group": "g_92026"
+		},
+		{	"name": "ap50",
+			"group": "g_91980"
+		},
+                {
+		        "name": "bst262",
+                        "group": "g_95193"
+                },
+		{
+			"name": "phys145",
+			"group": "g_89881"
 		},
 		{
-			"name": "cs109b",
-			"group": "g_84598"
+			"name": "bst228",
+			"group": "g_94162"
 		},
 		{
-			"name": "python_workshop",
-			"group": "g_87457"
-		},
-		{
-			"name": "cs205",
-			"group": "g_84102"
-		},
-		{
-			"name": "scrb99a",
-			"group": "g_76790"
-		},
-		{
-			"name": "scrb91r",
-			"group": "g_83970"
-		},
-		{
-			"name": "oeb275r",
-			"group": "g_85037"
-		},
-		{
-			"name": "astron100",
-			"group": "g_83974"
-		},
-		{
-			"name": "econ50a",
-			"group": "g_85159"
-		},
-		{
-			"name": "scrb155",
-			"group": "g_81128"
-		},
-		{
-			"name": "cscie88b",
-			"group": "g_81483"
-		},
-		{
-			"name": "scrb50",
-			"group": "g_84858"
-		},
-		{
-			"name": "chem165",
-			"group": "g_83338"
-		},
-		{
-			"name": "chem100r",
-			"group": "g_83746"
-		},
-		{
-			"name": "sumprogecology",
-			"group": "g_81346"
+			"name": "heb1410",
+			"group": "g_94089"
 		}
 	]
 }
