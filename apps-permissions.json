@@ -245,25 +245,29 @@
 			"name": "heb1410",
 			"group": "g_94089"
 		},
-                {
-                        "name": "scrb155",
-                        "group": "g_88904"
-                },
-                {     
-                        "name": "stat100",
-                        "group": "g_102162"
-                },
-                {
-                        "name": "eps101",
-                        "group": "g_94072"
-                },
-                {
-                        "name": "eps131",
-                        "group": "g_94073"
-                },
-                {
-                        "name": "epi293",
-                        "group": "g_96657"
-                }
+        {
+            "name": "scrb155",
+            "group": "g_88904"
+        },
+        {     
+            "name": "stat100",
+            "group": "g_102162"
+        },
+        {
+            "name": "eps101",
+            "group": "g_94072"
+        },
+        {
+            "name": "eps131",
+            "group": "g_94073"
+        },
+        {
+            "name": "epi293",
+            "group": "g_96657"
+        },
+		{
+			"name": "stat102",
+			"group": "g_89062"
+		}
 	]
 }
