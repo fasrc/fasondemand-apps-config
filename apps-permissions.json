@@ -17,7 +17,7 @@
 		{
 			"app_name": "Matlab",
 			"enabled": "1",
-			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91980", "g_94162", "g_95075", "g_95074"]
+			"courses": ["g_73222", "g_34166", "g_80421", "g_65214", "g_91980", "g_94162"]
 		},
 		{
 			"app_name": "fas-ondemand-windows-seas-autodesk",
@@ -266,25 +266,25 @@
             "name": "epi293",
             "group": "g_96657"
         },
-		{
-			"name": "stat102",
-			"group": "g_89062"
-		},
-		{
-			"name": "compsci205",
-			"group": "g_100601"
-		},
-		{
-			"name": "stat104",
-			"group": "g_89315"
-		},
-		{
-			"name": "econ50",
-			"group": "g_95075"
-		},
-		{
-			"name": "econ1123",
-			"group": "g_95074"
-		}
+	{
+	     "name": "stat102",
+	     "group": "g_89062"
+	},
+	{
+	     "name": "compsci205",
+	     "group": "g_100601"
+	},
+	{
+	      "name": "stat104",
+	      "group": "g_89315"
+	},
+	{
+	       "name": "econ50",
+	       "group": "g_95075"
+	},
+	{
+	       "name": "econ1123",
+	       "group": "g_95074"
+	}
 	]
 }
